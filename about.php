@@ -1,3 +1,3 @@
 <?php
-    echo "about"
+    echo "this is about page";
 ?>

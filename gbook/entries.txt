@@ -1,2 +1,0 @@
-aaa	aaa	kewenxing&#64;gmail&#46;com		aaaaaaaaa	December 31, 2014	0	0	127.0.0.1
-test	test	test&#64;gmail&#46;com		test	December 31, 2014	0	0	127.0.0.1
